@@ -84,17 +84,17 @@ Os requisitos de alto nível do projeto Alohomora são:
 
 ### Equipe
 
-|Nome|Papel|E-mail|
-|---|---|---|
-|Felipe Borges de Souza Chaves|Gerente|felipe.borges.fga@gmail.com|
-|Mateus Nascimento Nóbrega|Gerente|mateusn@outlook.com|
-|Samuel Barros Borges|Gerente|samuelmordred@gmail.com|
-|João Luis Baraky|Desenvolvedor|jlbaraky@gmail.com|
-|Paulo Batista da Cruz Júnior|Desenvolvedor|matpaulo@hotmail.com.br|
-|Aline Helena Lermen|Desenvolvedor|aline.helena.lermen@gmail.com|
-|Victor Jorge da Silva Gonçalves|Desenvolvedor|victor.eng.unb@gmail.com|
-|Luis Fernando Furtado De Araujo|Desenvolvedor|luiscesm1@gmail.com|
-|Rodrigo Tiago Costa Lima|Desenvolvedor|rodrigotiagocl@gmail.com|
+|Nome|Papel|
+|---|---|
+|Felipe Borges de Souza Chaves|Gerente|
+|Mateus Nascimento Nóbrega|Gerente|
+|Samuel Barros Borges|Gerente|
+|João Luis Baraky|Desenvolvedor|
+|Paulo Batista da Cruz Júnior|Desenvolvedor|
+|Aline Helena Lermen|Desenvolvedor|
+|Victor Jorge da Silva Gonçalves|Desenvolvedor|
+|Luis Fernando Furtado De Araujo|Desenvolvedor|
+|Rodrigo Tiago Costa Lima|Desenvolvedor|
 
 
 ## 9. Referências
